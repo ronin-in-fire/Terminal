@@ -1,14 +1,14 @@
-> Первая часть первого  ДЗ  ))
+> Первая часть первого  ДЗ
 > Linux terminal (GitBash) commands
 
 |ToDo|Commands|
 |:---------------|:-----|
 |Посмотреть где я| `pwd` |
-|Создать папку|`mkdir` folder_1|
-|Зайти в папку|`cd` folder_1|
-|Создать 3 папки|`mkdir` F_1 F_2 F_3|
-|Зайти в любоую папку|`cd` F_1|
-|Создать 5 файлов (3 txt, 2 json)|`touch` 1.txt 2.txt 3.txt 1.json 2.json
+|Создать папку|`mkdir` Terminal|
+|Зайти в папку|`cd` Terminal|
+|Создать 3 папки|`mkdir` folder_1 folder_2 folder_3|
+|Зайти в любоую папку|`cd` folder_3|
+|Создать 5 файлов (3 txt, 2 json)|`touch` file_1.txt file_2.txt file_3.txt file_4.json file_5.json
 |Создать 3 папки|`mkdir` dir_1 dir_2 dir_3|
 |Вывести список содержимого папки|`ls -l`|
 |Открыть любой txt файл|`vim` 2.txt|
