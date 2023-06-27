@@ -1,4 +1,4 @@
-> Первая часть первого  ДЗ
+> Первая часть первого  ДЗ     |
 > Linux terminal (GitBash) commands
 
 |ToDo|Commands|
