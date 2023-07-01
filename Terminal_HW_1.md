@@ -1,7 +1,7 @@
 > Первая часть первого  ДЗ     |
 > Linux terminal (GitBash) commands
 
-|ToDo|Commands|
+|Задание|Решение|
 |:---------------|:-----|
 |1) Посмотреть где я| `pwd` |
 |2) Создать папку|`mkdir` Terminal|
